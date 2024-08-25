@@ -1,0 +1,12 @@
+FONTS
+-header text: Overpass | 12px | #676767 | font weight 700
+-nav links: Overpass | 14px | #FFFFFF | font weight 700
+-Headings: Overpass | 24px | #005586 | font weight 700
+
+
+
+LINKS
+-Gary Vee Video: https://www.youtube.com/watch?v=SNSFeuF46zI
+
+PADDING AND MARGINS
+-
